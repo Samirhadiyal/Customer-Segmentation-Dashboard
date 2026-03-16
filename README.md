@@ -2,7 +2,7 @@
 <h3 align="center">Customer Segmentation & Analytics Platform</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Python-3.13.5-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit" />
   <img src="https://img.shields.io/badge/Machine%20Learning-KMeans-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />

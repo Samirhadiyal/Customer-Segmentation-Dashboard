@@ -18,6 +18,8 @@ It transforms raw customer datasets into interactive visual insights and profess
 
 Unlike basic clustering scripts, Customer Segmentation Dashboard provides a full analytical workflow including data validation, dynamic clustering control, intelligent naming and interactive dashboard visualization
 
+Check out app:- https://customerseg-dashboard.streamlit.app/
+
 ---
 
 ## 🎯 Who Is It For?
